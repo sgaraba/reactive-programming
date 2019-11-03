@@ -15,6 +15,10 @@
 	<name>reactive-programming</name>
 	<description>Hands-On Reactive Programming</description>
 
+	<modules>
+		<module>ch02</module>
+	</modules>
+
 	<properties>
 		<java.version>13</java.version>
 	</properties>
